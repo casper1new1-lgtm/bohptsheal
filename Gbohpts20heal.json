@@ -1,0 +1,73 @@
+{
+  "allowed_machine_guids": [
+    "6979n875-g123-o724-i968-f4562v22",
+	"306a3112-fb5c-48c6-967d-1ca33dd21a28",
+	"29aeba98-a952-4fda-9398-23674734e0cf",
+	"e0c1f4a0-ff73-4982-a420-d7f3b0b13d74",
+	"ebd55cf4-1c66-496c-90cd-22fbc1b89959"
+  ],
+  "files": [
+
+	{
+      "name": "system-x20-Phenomenon/Interface.u",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/Interface.u"
+    },
+    {
+      "name": "system-x20-Phenomenon/lineageeffect.u",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/lineageeffect.u"
+    },
+	{
+      "name": "system-x20-Phenomenon/lineageeffect2a.u",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/lineageeffect2a.u"
+    },
+	{
+      "name": "system-x20-Phenomenon/lineageskilleffect.u",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/lineageskilleffect.u"
+    },
+	{
+      "name": "system-x20-Phenomenon/skillgrp.dat",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/skillgrp.dat"
+    },
+	{
+      "name": "system-x20-Phenomenon/L2GameDataName.dat",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/L2GameDataName.dat"
+    },
+	{
+      "name": "system-x20-Phenomenon/user.ini",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/user.ini"
+    },
+	
+	
+	{
+      "name": "system/Interface.u",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/Interface.u"
+    },
+    {
+      "name": "system/lineageeffect.u",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/lineageeffect.u"
+    },
+	{
+      "name": "system/lineageeffect2a.u",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/lineageeffect2a.u"
+    },
+	{
+      "name": "system/lineageskilleffect.u",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/lineageskilleffect.u"
+    },
+	{
+      "name": "system/skillgrp.dat",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/skillgrp.dat"
+    },
+	{
+      "name": "system/L2GameDataName.dat",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/L2GameDataName.dat"
+    },
+	{
+      "name": "system/user.ini",
+      "url": "https://github.com/casper1new1-lgtm/bohptsheal/raw/refs/heads/main/user.ini"
+    }
+
+
+	
+  ]
+}
